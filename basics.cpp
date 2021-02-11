@@ -8,9 +8,9 @@ int main(){
   std::cout << "The count is in "<< count << " and the max value is 80." << std::endl;
 
   // Input
-  int userInput;
-  std::cin >> userInput;
-  std::cout << "You entered the number " << userInput << std::endl;
+  int user_input;
+  std::cin >> user_input;
+  std::cout << "You entered the number " << user_input << std::endl;
   
 
   return 0;
