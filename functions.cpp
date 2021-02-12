@@ -29,6 +29,7 @@ int main(){
   scanf("%d %d %d %d", &a, &b, &c, &d);
   int result = max_of_four(a, b, c, d);
   printf("%d\n",result);
+  cout << "Hi";
   
   return 0;
 }
